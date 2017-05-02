@@ -1,5 +1,10 @@
 # Ruby Microservices: Event Sourcing
 
+## Slides
+
+- How to Fail at Microservices ([link](http://bit.ly/msvc-fail), [mirror](https://docs.google.com/presentation/d/1hcg2Q4H6KdFVLNs_nJyi2xfY4UC9GuqPq339zrrtZ3o/pub?start=false&loop=false&delayms=60000&slide=id.p))
+- Succeeding with Mircroservices ([link](http://bit.ly/msvc-succeed), [mirror](https://docs.google.com/presentation/d/1hcg2Q4H6KdFVLNs_nJyi2xfY4UC9GuqPq339zrrtZ3o/pub?start=false&loop=false&delayms=60000&slide=id.p))
+
 ## Migrating Monolith to microservices
 
 - 1 to 3 year process (after you've stopped making mistakes)
@@ -102,11 +107,6 @@ will be costly
 - `method.(x,y)` syntax
   - Shorthand for `method.call(x,y)`
 - Versioning withdrawal
-
-### Slides
-
-- How to Fail at Microservices ([link](http://bit.ly/msvc-fail), [mirror](https://docs.google.com/presentation/d/1hcg2Q4H6KdFVLNs_nJyi2xfY4UC9GuqPq339zrrtZ3o/pub?start=false&loop=false&delayms=60000&slide=id.p))
-- Succeeding with Mircroservices ([link](http://bit.ly/msvc-succeed), [mirror](https://docs.google.com/presentation/d/1hcg2Q4H6KdFVLNs_nJyi2xfY4UC9GuqPq339zrrtZ3o/pub?start=false&loop=false&delayms=60000&slide=id.p))
 
 ### Misc
 
